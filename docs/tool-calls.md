@@ -14,3 +14,6 @@
 
 > [!WARNING]
 > 除非使用模型不支持 OpenAI ToolCalls ，否则应保持 OpenAI ToolCalls 调用格式不变。
+
+> [!WARNING]
+> 在下一个版本中，提示词调用格式将被移除。
