@@ -1,0 +1,67 @@
+{
+  "hash": "61b6cf2c",
+  "configHash": "4fb23b3f",
+  "lockfileHash": "4a822ff2",
+  "browserHash": "e68c93cd",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "27438194",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "d17a0fad",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../../node_modules/@vueuse/core/dist/index.js",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "fd25bb70",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/integrations/useFocusTrap": {
+      "src": "../../../../node_modules/@vueuse/integrations/dist/useFocusTrap.js",
+      "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
+      "fileHash": "81cdd01b",
+      "needsInterop": false
+    },
+    "vitepress > mark.js/src/vanilla.js": {
+      "src": "../../../../node_modules/mark.js/src/vanilla.js",
+      "file": "vitepress___mark__js_src_vanilla__js.js",
+      "fileHash": "ed636d63",
+      "needsInterop": false
+    },
+    "vitepress > minisearch": {
+      "src": "../../../../node_modules/minisearch/dist/es/index.js",
+      "file": "vitepress___minisearch.js",
+      "fileHash": "991a300f",
+      "needsInterop": false
+    },
+    "mdui": {
+      "src": "../../../../node_modules/mdui/mdui.js",
+      "file": "mdui.js",
+      "fileHash": "835089e2",
+      "needsInterop": false
+    },
+    "mdui/functions/setColorScheme.js": {
+      "src": "../../../../node_modules/mdui/functions/setColorScheme.js",
+      "file": "mdui_functions_setColorScheme__js.js",
+      "fileHash": "20b17371",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-XIUHZGE6": {
+      "file": "chunk-XIUHZGE6.js"
+    },
+    "chunk-LAD4XFDR": {
+      "file": "chunk-LAD4XFDR.js"
+    },
+    "chunk-GGCRE4WT": {
+      "file": "chunk-GGCRE4WT.js"
+    }
+  }
+}
