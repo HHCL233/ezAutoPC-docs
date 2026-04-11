@@ -9,7 +9,7 @@ export default defineConfig({
       }
     }
   },
-  base: "/ezAutoPC",
+  base: "/ezAutoPC-docs",
   title: "ezAutoPC 文档",
   description: "ezAutoPC 文档",
   head: [['link', { rel: 'icon', href: '/logo.png' }]],
