@@ -30,10 +30,16 @@ export default defineConfig({
       {
         text: '使用',
         items: [
-          { text: 'WebUI', link: '/webui' },
-          { text: '工具调用', link: '/tool-calls' },
-          { text: 'Skills', link: '/skills' },
-          { text: 'MCP', link: '/mcp' }
+          { text: 'WebUI', link: '/use/webui' },
+          { text: '工具调用', link: '/use/tool-calls' },
+          { text: 'Skills', link: '/use/skills' },
+          { text: 'MCP', link: '/use/mcp' }
+        ]
+      },
+      {
+        text: '开发',
+        items: [
+          { text: '外部调用', link: '/dev/custom-dashboard' },
         ]
       }
     ],
