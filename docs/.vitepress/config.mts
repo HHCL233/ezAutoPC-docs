@@ -28,6 +28,12 @@ export default defineConfig({
         ]
       },
       {
+        text: '更新',
+        items: [
+          { text: '破坏性改动', link: '/update/breaking.md' }
+        ]
+      },
+      {
         text: '使用',
         items: [
           { text: 'WebUI', link: '/use/webui' },
